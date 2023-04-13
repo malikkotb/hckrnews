@@ -4,17 +4,18 @@
       <nav>
         <div class="left">
           <img src="../../assets/y18.gif" alt="Hckrnews" />
-          <router-link to="/news"><strong>Hacker News</strong></router-link> |
-          <router-link to="/newest">new</router-link> |
+          <router-link to="/news"><strong>Hacker News</strong></router-link>
+          <!-- <router-link to="/newest">new</router-link> |
           <router-link to="/front">past</router-link> |
           <router-link to="/comments">comments</router-link> |
           <router-link to="/ask">ask</router-link> |
           <router-link to="/show">show</router-link> |
           <router-link to="/jobs">jobs</router-link> |
-          <router-link to="/submit">submit</router-link>
+          <router-link to="/submit">submit</router-link> -->
         </div>
         <div class="right">
-          <router-link to="/login">login</router-link>
+          <router-link to="/login">login</router-link> | 
+          <a href="https://github.com/malikkotb/hckrnews">Source</a>
         </div>
       </nav>
     </header>
